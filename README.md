@@ -8,4 +8,3 @@ This repository is built step by step in the tutorial.
 I am going to be using this file to edit lines of code
 It mow includes steps for GitHub
 I will be using some of my personal C projects.
-
